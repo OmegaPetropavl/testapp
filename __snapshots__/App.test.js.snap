@@ -1,0 +1,462 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> renders correctly 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "lightyellow",
+      "flex": 1,
+      "paddingTop": 25,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "darkslateblue",
+        "height": 50,
+        "justifyContent": "center",
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#fff",
+          "fontSize": 24,
+          "textAlign": "center",
+        }
+      }
+    >
+      🛒 Shopping Listaj1...
+    </Text>
+  </View>
+  <View>
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Add Item..."
+      style={
+        {
+          "borderBottomWidth": 1,
+          "fontSize": 16,
+          "height": 60,
+          "marginHorizontal": 12,
+          "padding": 8,
+          "paddingBottom": 2,
+        }
+      }
+      value=""
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "palegreen",
+          "borderRadius": 8,
+          "elevation": 3,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "marginBottom": 25,
+          "marginHorizontal": 12,
+          "marginTop": 8,
+          "paddingVertical": 6,
+          "shadowColor": "#000",
+          "shadowOffset": {
+            "height": 1,
+            "width": 0,
+          },
+          "shadowOpacity": 0.22,
+          "shadowRadius": 2.22,
+        }
+      }
+    >
+      <Text />
+      <Text
+        style={
+          {
+            "color": "darkslateblue",
+            "fontSize": 18,
+            "textAlign": "center",
+          }
+        }
+      >
+        Add Item
+      </Text>
+    </View>
+  </View>
+  <RCTScrollView
+    data={
+      [
+        {
+          "id": "0.0679323194204855",
+          "text": "Milk",
+        },
+        {
+          "id": "0.4604524169983304",
+          "text": "Milka21",
+        },
+        {
+          "id": "0.903623642326961",
+          "text": "Eggs",
+        },
+        {
+          "id": "0.9231097096989571",
+          "text": "Bread",
+        },
+        {
+          "id": "0.8890162597338045",
+          "text": "Butter",
+        },
+        {
+          "id": "0.8689076684946095",
+          "text": "Juice",
+        },
+      ]
+    }
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={[]}
+    viewabilityConfigCallbackPairs={[]}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "sandybrown",
+              "borderColor": "#eee",
+              "borderRadius": 12,
+              "marginHorizontal": 14,
+              "marginVertical": 3,
+              "paddingHorizontal": 12,
+              "paddingVertical": 6,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "darkred",
+                  "fontSize": 16,
+                }
+              }
+            >
+              Milk
+            </Text>
+            <Text />
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "sandybrown",
+              "borderColor": "#eee",
+              "borderRadius": 12,
+              "marginHorizontal": 14,
+              "marginVertical": 3,
+              "paddingHorizontal": 12,
+              "paddingVertical": 6,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "darkred",
+                  "fontSize": 16,
+                }
+              }
+            >
+              Milka21
+            </Text>
+            <Text />
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "sandybrown",
+              "borderColor": "#eee",
+              "borderRadius": 12,
+              "marginHorizontal": 14,
+              "marginVertical": 3,
+              "paddingHorizontal": 12,
+              "paddingVertical": 6,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "darkred",
+                  "fontSize": 16,
+                }
+              }
+            >
+              Eggs
+            </Text>
+            <Text />
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "sandybrown",
+              "borderColor": "#eee",
+              "borderRadius": 12,
+              "marginHorizontal": 14,
+              "marginVertical": 3,
+              "paddingHorizontal": 12,
+              "paddingVertical": 6,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "darkred",
+                  "fontSize": 16,
+                }
+              }
+            >
+              Bread
+            </Text>
+            <Text />
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "sandybrown",
+              "borderColor": "#eee",
+              "borderRadius": 12,
+              "marginHorizontal": 14,
+              "marginVertical": 3,
+              "paddingHorizontal": 12,
+              "paddingVertical": 6,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "darkred",
+                  "fontSize": 16,
+                }
+              }
+            >
+              Butter
+            </Text>
+            <Text />
+          </View>
+        </View>
+      </View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "backgroundColor": "sandybrown",
+              "borderColor": "#eee",
+              "borderRadius": 12,
+              "marginHorizontal": 14,
+              "marginVertical": 3,
+              "paddingHorizontal": 12,
+              "paddingVertical": 6,
+            }
+          }
+        >
+          <View
+            style={
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              }
+            }
+          >
+            <Text
+              style={
+                {
+                  "color": "darkred",
+                  "fontSize": 16,
+                }
+              }
+            >
+              Juice
+            </Text>
+            <Text />
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
